@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "296854589673",
+    "firebase_url": "https://buyupproject.firebaseio.com",
+    "project_id": "buyupproject",
+    "storage_bucket": "buyupproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296854589673:android:f682b0fa96e8b1b7",
+        "android_client_info": {
+          "package_name": "com.example.buyupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296854589673-1vbq9crbjnqaamkqt3a6aga7mefsbgm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSW-NiGutvSThPskPM6gLbMJl2h5BfKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
